@@ -3,3 +3,4 @@ module Test
   end
 end
 puts 'Tested'
+Blah
